@@ -22,7 +22,7 @@ This application takes your text documents (PDFs, TXT, Markdown files, or ZIP ar
 
 ## 📋 Prerequisites
 
-- Python 3.8+
+- Python 3.10
 - Neo4j Database (local or remote)
 - Groq API key
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### 3. Set Up Neo4j Database
 
 #### Option A: Local Installation
-1. Download and install [Neo4j Desktop](https://neo4j.com/download/)
+1. Setup docker for Neo4j in your system as shown here  [Neo4j Installation](https://docs.llamaindex.ai/en/stable/examples/property_graph/property_graph_neo4j/)
 2. Create a new database with:
    - Username: `neo4j`
    - Password: `your_password`
