@@ -12,7 +12,8 @@ This application takes your text documents (PDFs, TXT, Markdown files, or ZIP ar
 4. **Visualizes Relationships**: Generates interactive graph visualizations
 5. **Supports RAG Queries**: Answers questions by retrieving relevant graph context
 
-🎬 Demo
+## 🎬 Demo
+
 Watch the complete walkthrough of the RAG-powered Ontology Builder in action:
 ￼
 🎥 [Neo4j Installation](https://youtu.be/gUYsNH5rpfc)
