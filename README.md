@@ -25,6 +25,7 @@ This application takes your text documents (PDFs, TXT, Markdown files, or ZIP ar
 - Python 3.10
 - Neo4j Database (local or remote)
 - Groq API key
+- Preprocessing (Optional)- Clean your file and create chapters separately instead of uploading the whole book at once otherwise to create ontology of a whole book at once will require higher Request per minute to groq which is limited in free versions. For this book i have created chapters through pride_prejudices_chapters.py file separately and created ontology for multiple chapters at once.
 
 ## 🛠️ Installation
 
