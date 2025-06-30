@@ -1,0 +1,14 @@
+# All credentials & tweakables live here ‑‑ **never hard‑code secrets in source code**.
+neo4j:
+  url: bolt://localhost:7687   # ← adjust for your deployment
+  username: neo4j
+  password: "Rishabh@123"
+
+groq:
+  api_key: ""             # optional – leave blank to enter at runtime
+
+embedding:
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+
+llm:
+  model_name: llama-3.3-70b-versatile
