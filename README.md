@@ -1,6 +1,6 @@
-# RAG-Powered Ontology Builder 🧠➡️📊
+# RAG-Ontology-Powered-Query-engine 🧠➡️📊
 
-A sophisticated Retrieval-Augmented Generation (RAG) system that automatically builds knowledge graphs and ontologies from your documents. This project combines the power of LLMs with Neo4j graph database to create interactive, queryable knowledge representations.
+A Retrieval-Augmented Generation (RAG) system that automatically builds knowledge graphs and ontologies from your documents. This project combines the power of LLMs with Neo4j graph database to create interactive, queryable knowledge representations.
 
 ## 🚀 What This Project Does
 
