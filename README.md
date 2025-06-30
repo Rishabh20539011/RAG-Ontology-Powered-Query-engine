@@ -14,9 +14,9 @@ This application takes your text documents (PDFs, TXT, Markdown files, or ZIP ar
 
 ## 🎬 Demo
 
-Watch the complete walkthrough of the RAG-powered Ontology Builder in action:
+Watch the walkthrough of the RAG-powered Ontology Builder in action:
 ￼
-🎥 [Neo4j Installation](https://youtu.be/gUYsNH5rpfc)
+🎥 [Youtube Video](https://youtu.be/gUYsNH5rpfc)
 
 ## 🏗️ Architecture
 
